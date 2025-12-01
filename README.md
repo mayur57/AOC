@@ -1,6 +1,6 @@
 # Advent of Code
 
-My Advent of Code solutions repository. Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like. Here, you'll find my attempts at solving those puzzles using everyone's favorite Javascript.
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like. Here, you'll find my attempts at solving those puzzles using everyone's favorite Javascript.
 
 ### Days Completed
 This is the progress for days that have both the parts solved and uploaded on this repository. Years not mentioned don't have any solutions uploaded.
@@ -11,6 +11,7 @@ This is the progress for days that have both the parts solved and uploaded on th
 |2022| ![AOC 2022 Progress](https://progress-bar.xyz/8/?title=2%2F25%20)|
 |2023| ![AOC 2023 Progress](https://progress-bar.xyz/40/?title=10%2F25%20)|
 |2024| ![AOC 2024 Progress](https://progress-bar.xyz/100/?title=25%2F25%20)|
+|2025| ![AOC 2025 Progress](https://progress-bar.xyz/8/?title=1%2F12%20)|
 
 ### Automation Script
 You can use the `prepare.js` file to make folders, load template, and fetch input automatically for any of the days. Run it using `node prepare.js YYYY-DD`.
@@ -31,4 +32,4 @@ Also, just a heads up, there's an evident lack of code craftsmanship here. My so
 
 
 ## Contribution
-Please feel free to dig into the solutions and fix any edge cases! I'll do a cleanup before New Years to archive this repository (and probably C++ solutions? Go?! Who knows.). Thank you!
+Please feel free to dig into the solutions and fix any edge cases! I'll do a cleanup eventually. Thank you!
